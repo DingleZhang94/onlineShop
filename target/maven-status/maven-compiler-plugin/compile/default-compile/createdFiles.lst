@@ -1,0 +1,11 @@
+onlineShop\model\BillingAddress.class
+onlineShop\model\User.class
+onlineShop\controlller\HomePageController.class
+onlineShop\model\Authorities.class
+onlineShop\model\CartItem.class
+onlineShop\model\ShippingAddress.class
+onlineShop\model\SalesOrder.class
+onlineShop\ApplicationConfig.class
+onlineShop\model\Cart.class
+onlineShop\model\Customer.class
+onlineShop\model\Product.class
