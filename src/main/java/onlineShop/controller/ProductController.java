@@ -34,7 +34,7 @@ public class ProductController {
     public ModelAndView getAllProducts() {
    	 List<Product> products = productService.getAllProducts();
    	 return new ModelAndView("productList", "products", products);
-    }
+    }	
 
     @RequestMapping(value = "/getProductById/{productId}", method = RequestMethod.GET)
     public ModelAndView getProductById(@PathVariable(value = "productId") int productId) {

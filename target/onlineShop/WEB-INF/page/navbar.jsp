@@ -23,10 +23,7 @@
     <div class="container-fluid">
 
         <div class="nav navbar">
-            <img src="<c:url value="/resource/images/logo.png"/>"
-                 width="200px" height="100px"
-                 alt="logo-image">
-            </img>
+            
         </div>
 
         <div class="collapse navbar-collapse" id="myNavbar">
